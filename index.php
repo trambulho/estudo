@@ -2,6 +2,5 @@
 
 echo "Aoba!! 456";
 
-echo "ASASASAS";
-
+echo "AEWW!";
 ?>
